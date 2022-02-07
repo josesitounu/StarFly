@@ -1,0 +1,104 @@
+
+.titulos{
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+}
+
+.cuerpo{
+    font-size: 15px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.container-dm{
+  overflow-x: hidden;
+}
+
+.fotico{
+margin-top: 50px;
+height: 220px;
+object-fit:cover;
+}
+
+
+
+
+/* sobre nosotros */
+
+.primer-tit-about-us{
+    margin-top: 80px;
+}
+
+
+.jose{
+    font-size: 12px;
+}
+
+.marginjo{
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+
+
+
+/* galeria */
+
+.carru{
+    height: 400px;
+    object-fit: cover;
+}
+
+
+.carru2{
+    margin-top: 50px;
+    height: 300px;
+    object-fit: cover;
+}
+.galeria-titulo{
+    text-align: center;
+    margin-top: 50px;
+    border-bottom: 1px solid #000;
+
+}
+
+.galeria-star{
+    margin-top: 50px;
+ width: 100%;
+}
+
+.galeria-star2{
+    margin-top: 10px;
+}
+.galeria-star3{
+    margin-top: 10px;
+}
+.galeria-star4{
+    margin-top: -70px;
+}
+.galeria-star5{
+    margin-top: 10px;
+}
+.galeria-star6{
+    margin-top: 10px;
+}
+.galeria-star8{
+    margin-top: 10px;
+}.galeria-star9{
+    margin-top: 10px;
+}
+
+.galeria-star10{
+    margin-top: 10px;
+}
+.galeria-star11{
+    margin-top: 10px;
+}
+.galeria-star6{
+    margin-top: 10px;
+}
+
+.titulo-contacto{
+    text-align: center;
+    margin-top: 50px;
+    border-bottom: 1px solid #000;
+}
